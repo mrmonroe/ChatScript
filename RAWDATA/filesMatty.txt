@@ -1,4 +1,3 @@
 # underlying conversation system
-RAWDATA/HARRY/simplecontrol.top
-RAWDATA/MATTY/tutorial.top	
+RAWDATA/MATTY/
 
